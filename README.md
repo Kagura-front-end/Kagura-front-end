@@ -1,6 +1,6 @@
 - Hi, I’m @Kagura-front-end
 - I'm a junior front end dev
-- I can use Typescript, React and am looking into other framworks at the moment
+- Proficient in React and TypeScript and looking into other framworks at the moment (angular.js, $mol)
 - 📫 How to reach me kuzinaflkuzina@gmail.com
 
 <!---
